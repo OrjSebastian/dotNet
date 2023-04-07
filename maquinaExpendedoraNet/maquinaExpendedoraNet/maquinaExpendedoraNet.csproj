@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Model\.git\COMMIT_EDITMSG" />
+    <None Include="Model\.git\config" />
+    <None Include="Model\.git\description" />
+    <None Include="Model\.git\HEAD" />
+    <None Include="Model\.git\hooks\applypatch-msg.sample" />
+    <None Include="Model\.git\hooks\commit-msg.sample" />
+    <None Include="Model\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="Model\.git\hooks\post-update.sample" />
+    <None Include="Model\.git\hooks\pre-applypatch.sample" />
+    <None Include="Model\.git\hooks\pre-commit.sample" />
+    <None Include="Model\.git\hooks\pre-merge-commit.sample" />
+    <None Include="Model\.git\hooks\pre-push.sample" />
+    <None Include="Model\.git\hooks\pre-rebase.sample" />
+    <None Include="Model\.git\hooks\pre-receive.sample" />
+    <None Include="Model\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="Model\.git\hooks\push-to-checkout.sample" />
+    <None Include="Model\.git\hooks\update.sample" />
+    <None Include="Model\.git\index" />
+    <None Include="Model\.git\info\exclude" />
+    <None Include="Model\.git\logs\HEAD" />
+    <None Include="Model\.git\logs\refs\heads\master" />
+    <None Include="Model\.git\objects\20\71bb3d4770496c0a36d42c436fee1ce1bff58f" />
+    <None Include="Model\.git\objects\2f\9d0b4f678cb6181367620fb6b064fe5a430b81" />
+    <None Include="Model\.git\objects\c7\8e7786121f4458afe659b53ee1fea8230e2297" />
+    <None Include="Model\.git\refs\heads\master" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Model\.git\objects\info\" />
+    <Folder Include="Model\.git\objects\pack\" />
+    <Folder Include="Model\.git\refs\tags\" />
+  </ItemGroup>
+
+</Project>

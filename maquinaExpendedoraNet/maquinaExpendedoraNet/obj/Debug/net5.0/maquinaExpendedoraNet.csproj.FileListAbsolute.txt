@@ -1,0 +1,16 @@
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.exe
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.deps.json
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.runtimeconfig.json
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.runtimeconfig.dev.json
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.dll
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\ref\maquinaExpendedoraNet.dll
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\bin\Debug\net5.0\maquinaExpendedoraNet.pdb
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.csproj.AssemblyReference.cache
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.AssemblyInfoInputs.cache
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.AssemblyInfo.cs
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.dll
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\ref\maquinaExpendedoraNet.dll
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.pdb
+C:\Users\JUAN\source\repos\maquinaExpendedoraNet\maquinaExpendedoraNet\obj\Debug\net5.0\maquinaExpendedoraNet.genruntimeconfig.cache
